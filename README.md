@@ -22,18 +22,20 @@
 
 ---
 
-### 🛠️ What I'm Up To
-- 🔭 **I’m currently working on:** [Insert your project name or description here]
-- 🌱 **I’m currently learning:** Advanced Python and UI/UX Design
+<div align="left">
+
+- 🔭 I’m currently working on **my 4th GeekExpress STEM Certificate (AI Engineer) and Ash and Iron book<br>
+  currently being written by Notbooks Lebanon**
+- 🌱 I’m currently learning **Python coding language.**
+- ⚡ Fun fact: **I prefer dark mode for everything.**
+- 💬 To contact: Reach out via Instagram!
+
+</div>
 
 ---
 
-### 📬 Get In Touch
-- 💬 **To contact:** You can reach me via Instagram below or shoot me a DM!
-
-<br/>
-
-<a href="https://instagram.com/YOUR_INSTA_USERNAME_HERE" target="blank">
+### 📱 Connect
+<a href="https://instagram.com/Notboox.leb" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
