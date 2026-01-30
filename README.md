@@ -35,7 +35,7 @@
 ---
 
 ### 📱 Connect
-<a href="https://instagram.com/Notboox.leb" target="blank">
+<a href="https://instagram.com/Notbooks.leb" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
