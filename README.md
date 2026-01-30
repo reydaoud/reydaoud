@@ -28,7 +28,7 @@
   currently being written by Notbooks Lebanon**
 - 🌱 I’m currently learning **Python coding language.**
 - ⚡ Fun fact: **I prefer dark mode for everything.**
-- 💬 To contact: Reach out via Instagram!
+- 💬 To contact: **Reach out via Instagram or shoot me an email (notbooklebanon@gmail.com).**
 
 </div>
 
