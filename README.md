@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
 </p>
 
@@ -22,15 +22,17 @@
 
 ---
 
-### 📊 Vital Signs
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reydaoud&show_icons=true&theme=radical&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydaoud&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🛠️ What I'm Up To
+- 🔭 **I’m currently working on:** [Insert your project name or description here]
+- 🌱 **I’m currently learning:** Advanced Python and UI/UX Design
 
 ---
 
-### 📱 Connect
+### 📬 Get In Touch
+- 💬 **To contact:** You can reach me via Instagram below or shoot me a DM!
+
+<br/>
+
 <a href="https://instagram.com/YOUR_INSTA_USERNAME_HERE" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
